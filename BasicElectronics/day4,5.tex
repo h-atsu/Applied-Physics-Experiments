@@ -1,0 +1,286 @@
+\documentclass[11pt, a4paper,twocolumn]{jarticle}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{docmute}
+\begin{document}
+%=============================================================
+\section{Frequency filters \\based on operational amplifiers ($4^{th} \& 5^{th} day$)}
+\subsubsection{Purpose}
+増幅器を使いlow-pass filter, high-pass filter 作り，それを用いて周波数時間特性を調べる．
+\subsection{Equipment}
+\begin{itemize}
+    \item 実験3と同様のもの
+\end{itemize}
+\subsubsection{Procedure}
+まず図\ref{fig:12}に示すようにLow-pass-filterを作る．
+この時オペアンプのパワーラインとGNDに前回同様0.1$\mu$Fのコンデンサを挟むことを確認する．
+今回の実験ではファンクションジェネレーターを用いて矩形波，正弦波を作る．
+まず$V_{in}$にファンクションジェネレーターを用いて矩形波を入力とし，10Hzから10KHzまで10倍づつ変化させながら測定した．
+この時オシロスコープを用いて矩形波の入力電圧と出力電圧を同時に表示して観察した．
+またこの時のデータをUSBに保存した．
+次に正弦波を同様の手順で測定し記録した．
+
+次に図\ref{fig:13}に示すようにHigh-pass-filterを作り，前回同様ファンクションジェネレーターにより矩形波の入力電圧と出力電圧の関係を測定し，次に正弦波の入力電圧と出力電圧の関係を測定した．
+
+最後に図\ref{fig:14}に示すようにBand-pass-filterを作り，前回同様に矩形波，正弦波の入力電圧においてそれぞれ周波数を変えながら測定を行なった．
+
+これらの実験から得られた結果を対数グラフにプロットすることによって周波数と振幅の関係について調べる．
+また出力電圧の波形と入力電圧の波形を見比べてその位相差について調べる．
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig12.png}
+ \end{center}
+ \caption{High pass filter}
+ \label{fig:12}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig13.png}
+ \end{center}
+ \caption{Low pass filter}
+ \label{fig:13}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig14.png}
+ \end{center}
+ \caption{Band pass filter}
+ \label{fig:14}
+\end{figure}
+
+\subsubsection{Result}
+測定の結果まず，Low pass filterについて以下のような結果が得られた．
+まずは矩形波についての結果をしめす．
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig31.png}
+ \end{center}
+ \caption{Low pass filter(Vin 10Hz)}
+ \label{fig:31}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig32.png}
+ \end{center}
+ \caption{Low pass filter(Vin 100Hz)}
+ \label{fig:32}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig33.png}
+ \end{center}
+ \caption{Low pass filter(Vin 1kHz)}
+ \label{fig:33}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig34.png}
+ \end{center}
+ \caption{Low pass filter(Vin 10kHz)}
+ \label{fig:34}
+\end{figure}
+
+\newpage
+
+続いて正弦波についての結果を示す．
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig35.png}
+ \end{center}
+ \caption{Low pass filter(Vin 10Hz)}
+ \label{fig:35}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig36.png}
+ \end{center}
+ \caption{Low pass filter(Vin 100Hz)}
+ \label{fig:36}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig37.png}
+ \end{center}
+ \caption{Low pass filter(Vin 1kHz)}
+ \label{fig:37}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig38.png}
+ \end{center}
+ \caption{Low pass filter(Vin 10kHz)}
+ \label{fig:38}
+\end{figure}
+
+\newpage
+
+さらにHigh pass filterについても以下のような結果が得られた．
+まずは矩形波の結果を示す．
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig39.png}
+ \end{center}
+ \caption{High pass filter(Vin 10Hz)}
+ \label{fig:39}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig40.png}
+ \end{center}
+ \caption{High pass filter(Vin 100Hz)}
+ \label{fig:40}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig41.png}
+ \end{center}
+ \caption{High pass filter(Vin 1kHz)}
+ \label{fig:41}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig42.png}
+ \end{center}
+ \caption{High pass filter(Vin 10kHz)}
+ \label{fig:42}
+\end{figure}
+
+\newpage
+
+続いて正弦波の結果を以下に示す．
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig43.png}
+ \end{center}
+ \caption{High pass filter(Vin 10Hz)}
+ \label{fig:43}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig44.png}
+ \end{center}
+ \caption{High pass filter(Vin 100Hz)}
+ \label{fig:44}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig45.png}
+ \end{center}
+ \caption{High pass filter(Vin 1kHz)}
+ \label{fig:45}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig46.png}
+ \end{center}
+ \caption{High pass filter(Vin 10kHz)}
+ \label{fig:46}
+\end{figure}
+
+\newpage
+
+最後にBand pass filterについても以下のような結果が得られた．
+まずは矩形波の結果を示す．
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig47.png}
+ \end{center}
+ \caption{Band pass filter(Vin 10Hz)}
+ \label{fig:47}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig48.png}
+ \end{center}
+ \caption{Band pass filter(Vin 100Hz)}
+ \label{fig:48}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig49.png}
+ \end{center}
+ \caption{Band pass filter(Vin 2kHz)}
+ \label{fig:49}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig50.png}
+ \end{center}
+ \caption{Band pass filter(Vin 10kHz)}
+ \label{fig:50}
+\end{figure}
+
+\newpage
+
+続いて正弦波の結果を以下に示す．
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig51.png}
+ \end{center}
+ \caption{Band pass filter(Vin 10Hz)}
+ \label{fig:51}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig52.png}
+ \end{center}
+ \caption{Band pass filter(Vin 100Hz)}
+ \label{fig:52}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig53.png}
+ \end{center}
+ \caption{Band pass filter(Vin 1kHz)}
+ \label{fig:53}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig54.png}
+ \end{center}
+ \caption{Band pass filter(Vin 5kHz)}
+ \label{fig:54}
+\end{figure}
+
+\begin{figure}[htbp]
+ \begin{center}
+  \includegraphics[width=0.8\linewidth]{fig55.png}
+ \end{center}
+ \caption{Band pass filter(Vin 10kHz)}
+ \label{fig:55}
+\end{figure}
+
+\newpage
+
+
+\input{Discussion4,5.tex}
+
+%=============================================================
+\newpage
+\end{document}

@@ -1,0 +1,90 @@
+\documentclass[11pt, a4paper,twocolumn]{jarticle}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{listings,jlisting}
+\usepackage{docmute}
+\begin{document}
+\begin{titlepage}
+  \begin{center}
+    {\Huge 基礎デジタル計測}\\
+    \vspace{10truept}
+    {\Huge Basics of digital measurements}\\
+    \vspace{30truept}
+    {\huge 　　提出者 : 08A17153　羽田充宏}\\ % 学籍番号
+    {\huge 共同実験者 : 08A17154　畠中俊平}\\ % 学籍番号
+    \vspace{50truept}
+
+    \begin{list}{}{\setlength{\leftmargin}{95pt}}
+    \item {\huge 実験実施日 : 2019年6月14日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2019年6月17日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2019年6月21日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2019年6月24日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2019年6月28日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2019年7月1日}\\
+    \vspace{40truept}
+
+    \end{list}
+    \vspace{50truept}
+
+  \end{center}
+\end{titlepage}
+
+
+% template======================================================
+% \section{}
+% \subsection{}
+% \subsubsection{Purpose}
+% \subsection{Equipment}
+% \begin{itemize}
+%     \item
+% \end{itemize}
+% \subsubsection{Procedure}
+% \subsubsection{Result}
+% \subsubsection{Discussion}
+%=============================================================
+% \begin{figure}[ht]
+%  \begin{center}
+%   \includegraphics[width=0.8\linewidth]{fig1.png}
+%  \end{center}
+%  \caption{74HC14}
+%  \label{fig:1}
+% \end{figure}
+% \clearpage
+%=============================================================
+\twocolumn
+[
+\begin{center}
+    \textbf{\Large Introduction}\\
+    \begin{flushleft}
+        この実験ではコンピュータやその周辺機器を使った実験の制御方法を学ぶ．
+        また実験を通してC言語を用いてコンピュータや電気回路を制御する方法を学習する．
+        こうしたスキルを使うことで，話し手によりマイクロフォンより発せられる音声のキャプチャーをを開発し，制御工学を学ぶ．
+        さらに，キャプチャーした音声を信号処理することで周波数フィルターを作製する．
+    \end{flushleft}
+    \begin{itemize}
+        \item パソコンを使ってのC言語学習 (1st day).
+        \item AD変換,DA変換やC言語を用いたAD/DA変換を学習する (2nd day).
+        \item 音声キャプチャーのための電気回路を製作する (3rd day).
+        \item GNU Octaveの学習および理解をした後，キャプチャーした音声の高速フーリエ変換(FFT)を観察する (4th day).
+        \item 周波数領域における信号処理 (5-6th day).
+    \end{itemize}
+\end{center}
+\vspace{30truept}
+]
+%=============================================================
+\input{day1.tex}
+\input{day2.tex}
+\input{day3.tex}
+\input{day4.tex}
+\input{day5&6.tex}
+%=============================================================
+\begin{thebibliography}{9}
+  \bibitem{1} なっとくするフーリエ変換　小暮陽三
+  \bibitem{2} ディジタル諡号処理　府川和彦
+\end{thebibliography}
+%=============================================================
+\end{document}

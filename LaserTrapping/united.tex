@@ -1,0 +1,118 @@
+\documentclass[11pt, a4paper,twocolumn]{jarticle}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{listings,jlisting}
+\usepackage{amssymb}
+\usepackage{docmute}
+\begin{document}
+\begin{titlepage}
+  \begin{center}
+    {\Huge G.レーザートラッピング}\\
+    \vspace{30truept}
+    {\huge 　　提出者 : 08A17153　羽田充宏}\\ % 学籍番号
+    {\huge 共同実験者 : 08A17179　牧野将之}\\
+    {\huge 　　　　　 : 08A17205　森本拓実}\\ % 学籍番号
+    \vspace{50truept}
+
+    \begin{list}{}{\setlength{\leftmargin}{95pt}}
+    \item {\huge 実験実施日 : 2019年12月2日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2019年12月9日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2019年12月16日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2019年12月23日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2020年1月6日}\\
+    \vspace{10truept}
+    \item {\huge 実験実施日 : 2020年1月20日}\\
+    \vspace{40truept}
+
+    \end{list}
+    \vspace{50truept}
+
+  \end{center}
+\end{titlepage}
+
+
+% template======================================================
+% \section{}
+% \subsection{}
+% \subsubsection{Purpose}
+% \subsection{Equipment}
+% \begin{itemize}
+%     \item
+% \end{itemize}
+% \subsubsection{Procedure}
+% \subsubsection{Result}
+% \subsubsection{Discussion}
+%=============================================================
+% \begin{figure}[ht]
+%  \begin{center}
+%   \includegraphics[width=0.8\linewidth]{fig1.png}
+%  \end{center}
+%  \caption{74HC14}
+%  \label{fig:1}
+% \end{figure}
+% \clearpage
+%=============================================================
+\twocolumn
+[
+\begin{center}
+    \textbf{\Large 実験目的}\\
+    \begin{flushleft}
+        \begin{itemize}
+            \item 光学顕微鏡の取り扱い方法を身に付ける．
+            \item 光の放射圧について理解し，レーザートラッピングの原理を理解する．
+            \item 溶媒の粘性と粒子の運動について理解する．
+        \end{itemize}
+    \end{flushleft}
+    \textbf{\Large 使用する実験器具}\\
+    \begin{flushleft}
+        \textbf{光学装置}
+        \begin{itemize}
+            \item 光学顕微鏡（ニコン倒立顕微鏡 TE-2000S）
+            \item Nd:YAGレーザー(DPGL-2150F Photop Suwtech,Inc. 波長532nm,出力160W)
+            \item 対物レンズ（浸水,NA1.15,倍率$\times$40）
+            \item 対物レンズ（NA0.95,倍率$\times$60）
+            \item ビームエキスパンダー
+            \item ビームステアリング
+            \item ミラー
+        \end{itemize}
+        \textbf{画像機器}
+        \begin{itemize}
+            \item CCDカメラ
+            \item テレビモニター
+        \end{itemize}
+        \textbf{ステージ}
+        \begin{itemize}
+            \item XY軸ステッピングモーター（UG0348 駿河精機,4nm/pps）
+        \end{itemize}
+        \textbf{資料}
+        \begin{itemize}
+            \item 微粒子:ポリスチレン球（直径:0.5-10$\mu$m）
+            \item ガラスボトムティッシュ
+            \item サンプル管
+            \item 純水
+            \item　界面活性剤
+            \item スポイト
+        \end{itemize}
+    \end{flushleft}
+\end{center}
+\vspace{30truept}
+]
+%=============================================================
+ \input{day1.tex}
+\input{day2.tex}
+\input{day3.tex}
+\input{day4.tex}
+\input{day5.tex}
+\input{day6.tex}
+%=============================================================
+\begin{thebibliography}{9}
+  \bibitem{1} 石飛　秀和　他　「応用物理学実験」
+  \bibitem{2} 国立天文台  「理科年表」
+  \bibitem{3} 小原　実　他　「レーザー応用光学」
+  \bibitem{4} 櫛田　孝司　　「光物理学」　
+\end{thebibliography}
+%=============================================================
+\end{document}

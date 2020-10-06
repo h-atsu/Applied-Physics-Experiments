@@ -1,0 +1,187 @@
+PWD /Users/atsuhirohada/Desktop/Applied_Physics_Experiments/BasicElectronics
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/eptex/platex.fmt
+INPUT united.tex
+OUTPUT united.log
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/base/jarticle.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/base/jarticle.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/base/jsize11.clo
+INPUT /usr/local/texlive/2018/texmf-dist/tex/platex/base/jsize11.clo
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/docmute/docmute.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/docmute/docmute.sty
+INPUT united.aux
+INPUT united.aux
+OUTPUT united.aux
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+OUTPUT united.dvi
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT day1.tex
+INPUT day1.tex
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/min8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm
+INPUT fig5.png
+INPUT extractbb -B cropbox -O fig5.png
+INPUT fig1.png
+INPUT extractbb -B cropbox -O fig1.png
+INPUT fig2.png
+INPUT extractbb -B cropbox -O fig2.png
+INPUT fig3.png
+INPUT extractbb -B cropbox -O fig3.png
+INPUT fig4.png
+INPUT extractbb -B cropbox -O fig4.png
+INPUT fig6.png
+INPUT extractbb -B cropbox -O fig6.png
+INPUT fig7.png
+INPUT extractbb -B cropbox -O fig7.png
+INPUT day2.tex
+INPUT day2.tex
+INPUT fig8.png
+INPUT extractbb -B cropbox -O fig8.png
+INPUT fig9.png
+INPUT extractbb -B cropbox -O fig9.png
+INPUT fig17.png
+INPUT extractbb -B cropbox -O fig17.png
+INPUT fig18.png
+INPUT extractbb -B cropbox -O fig18.png
+INPUT day3.tex
+INPUT day3.tex
+INPUT fig10.png
+INPUT extractbb -B cropbox -O fig10.png
+INPUT fig11.png
+INPUT extractbb -B cropbox -O fig11.png
+INPUT fig19.png
+INPUT extractbb -B cropbox -O fig19.png
+INPUT fig20.png
+INPUT extractbb -B cropbox -O fig20.png
+INPUT fig21.png
+INPUT extractbb -B cropbox -O fig21.png
+INPUT fig22.png
+INPUT extractbb -B cropbox -O fig22.png
+INPUT day4,5.tex
+INPUT day4,5.tex
+INPUT fig12.png
+INPUT extractbb -B cropbox -O fig12.png
+INPUT fig13.png
+INPUT extractbb -B cropbox -O fig13.png
+INPUT fig14.png
+INPUT extractbb -B cropbox -O fig14.png
+INPUT fig31.png
+INPUT extractbb -B cropbox -O fig31.png
+INPUT fig32.png
+INPUT extractbb -B cropbox -O fig32.png
+INPUT fig33.png
+INPUT extractbb -B cropbox -O fig33.png
+INPUT fig34.png
+INPUT extractbb -B cropbox -O fig34.png
+INPUT fig35.png
+INPUT extractbb -B cropbox -O fig35.png
+INPUT fig36.png
+INPUT extractbb -B cropbox -O fig36.png
+INPUT fig37.png
+INPUT extractbb -B cropbox -O fig37.png
+INPUT fig38.png
+INPUT extractbb -B cropbox -O fig38.png
+INPUT fig39.png
+INPUT extractbb -B cropbox -O fig39.png
+INPUT fig40.png
+INPUT extractbb -B cropbox -O fig40.png
+INPUT fig41.png
+INPUT extractbb -B cropbox -O fig41.png
+INPUT fig42.png
+INPUT extractbb -B cropbox -O fig42.png
+INPUT fig43.png
+INPUT extractbb -B cropbox -O fig43.png
+INPUT fig44.png
+INPUT extractbb -B cropbox -O fig44.png
+INPUT fig45.png
+INPUT extractbb -B cropbox -O fig45.png
+INPUT fig46.png
+INPUT extractbb -B cropbox -O fig46.png
+INPUT fig47.png
+INPUT extractbb -B cropbox -O fig47.png
+INPUT fig48.png
+INPUT extractbb -B cropbox -O fig48.png
+INPUT fig49.png
+INPUT extractbb -B cropbox -O fig49.png
+INPUT fig50.png
+INPUT extractbb -B cropbox -O fig50.png
+INPUT fig51.png
+INPUT extractbb -B cropbox -O fig51.png
+INPUT fig52.png
+INPUT extractbb -B cropbox -O fig52.png
+INPUT fig53.png
+INPUT extractbb -B cropbox -O fig53.png
+INPUT fig54.png
+INPUT extractbb -B cropbox -O fig54.png
+INPUT fig55.png
+INPUT extractbb -B cropbox -O fig55.png
+INPUT Discussion4,5.tex
+INPUT Discussion4,5.tex
+INPUT day6.tex
+INPUT day6.tex
+INPUT fig15.png
+INPUT extractbb -B cropbox -O fig15.png
+INPUT fig16.png
+INPUT extractbb -B cropbox -O fig16.png
+INPUT fig23.png
+INPUT extractbb -B cropbox -O fig23.png
+INPUT fig24.png
+INPUT extractbb -B cropbox -O fig24.png
+INPUT fig25.png
+INPUT extractbb -B cropbox -O fig25.png
+INPUT fig26.png
+INPUT extractbb -B cropbox -O fig26.png
+INPUT fig27.png
+INPUT extractbb -B cropbox -O fig27.png
+INPUT fig28.png
+INPUT extractbb -B cropbox -O fig28.png
+INPUT fig29.png
+INPUT extractbb -B cropbox -O fig29.png
+INPUT fig30.png
+INPUT extractbb -B cropbox -O fig30.png
+INPUT united.aux

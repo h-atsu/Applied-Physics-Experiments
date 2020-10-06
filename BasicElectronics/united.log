@@ -1,0 +1,248 @@
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2019.4.22)  7 OCT 2020 00:57
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**united.tex
+(./united.tex
+pLaTeX2e <2018-04-01>+1 (based on LaTeX2e <2018-04-01> patch level 2)
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2018/02/04 v1.7h Standard pLaTeX class
+\c@@paper=\count83
+(/usr/local/texlive/2018/texmf-dist/tex/platex/base/jsize11.clo
+File: jsize11.clo 2018/02/04 v1.7h Standard pLaTeX file (size option)
+)
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 614.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count92
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/docmute/docmute.sty
+Package: docmute 2012/03/22 v1.4 Input stand-alone documents
+) (./united.aux)
+\openout1 = `united.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+\docmute@nestinglevel=\count93
+ [1
+
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 72.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 72.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
+ (./day1.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+File: fig5.png Graphic file (type bmp)
+<fig5.png>
+ [1
+
+
+]
+File: fig1.png Graphic file (type bmp)
+<fig1.png>
+File: fig2.png Graphic file (type bmp)
+<fig2.png>
+File: fig3.png Graphic file (type bmp)
+<fig3.png>
+File: fig4.png Graphic file (type bmp)
+<fig4.png>
+ [2]
+File: fig6.png Graphic file (type bmp)
+<fig6.png>
+File: fig7.png Graphic file (type bmp)
+<fig7.png>
+ [3]) (./day2.tex [4]
+File: fig8.png Graphic file (type bmp)
+<fig8.png>
+File: fig9.png Graphic file (type bmp)
+<fig9.png>
+File: fig17.png Graphic file (type bmp)
+<fig17.png>
+ [5]
+File: fig18.png Graphic file (type bmp)
+<fig18.png>
+ [6]) (./day3.tex
+File: fig10.png Graphic file (type bmp)
+<fig10.png>
+File: fig11.png Graphic file (type bmp)
+<fig11.png>
+ [7]
+File: fig19.png Graphic file (type bmp)
+<fig19.png>
+File: fig20.png Graphic file (type bmp)
+<fig20.png>
+ [8]
+File: fig21.png Graphic file (type bmp)
+<fig21.png>
+File: fig22.png Graphic file (type bmp)
+<fig22.png>
+ [9]) (./day4,5.tex
+File: fig12.png Graphic file (type bmp)
+<fig12.png>
+File: fig13.png Graphic file (type bmp)
+<fig13.png>
+File: fig14.png Graphic file (type bmp)
+<fig14.png>
+File: fig31.png Graphic file (type bmp)
+<fig31.png>
+File: fig32.png Graphic file (type bmp)
+<fig32.png>
+File: fig33.png Graphic file (type bmp)
+<fig33.png>
+File: fig34.png Graphic file (type bmp)
+<fig34.png>
+ [10] [11]
+File: fig35.png Graphic file (type bmp)
+<fig35.png>
+File: fig36.png Graphic file (type bmp)
+<fig36.png>
+File: fig37.png Graphic file (type bmp)
+<fig37.png>
+File: fig38.png Graphic file (type bmp)
+<fig38.png>
+ [12]
+File: fig39.png Graphic file (type bmp)
+<fig39.png>
+File: fig40.png Graphic file (type bmp)
+<fig40.png>
+File: fig41.png Graphic file (type bmp)
+<fig41.png>
+File: fig42.png Graphic file (type bmp)
+<fig42.png>
+ [13]
+File: fig43.png Graphic file (type bmp)
+<fig43.png>
+File: fig44.png Graphic file (type bmp)
+<fig44.png>
+File: fig45.png Graphic file (type bmp)
+<fig45.png>
+File: fig46.png Graphic file (type bmp)
+<fig46.png>
+ [14]
+File: fig47.png Graphic file (type bmp)
+<fig47.png>
+File: fig48.png Graphic file (type bmp)
+<fig48.png>
+File: fig49.png Graphic file (type bmp)
+<fig49.png>
+File: fig50.png Graphic file (type bmp)
+<fig50.png>
+ [15]
+File: fig51.png Graphic file (type bmp)
+<fig51.png>
+File: fig52.png Graphic file (type bmp)
+<fig52.png>
+File: fig53.png Graphic file (type bmp)
+<fig53.png>
+File: fig54.png Graphic file (type bmp)
+<fig54.png>
+File: fig55.png Graphic file (type bmp)
+<fig55.png>
+ [16] (./Discussion4,5.tex) [17]) (./day6.tex
+File: fig15.png Graphic file (type bmp)
+<fig15.png>
+File: fig16.png Graphic file (type bmp)
+<fig16.png>
+ [18]
+File: fig23.png Graphic file (type bmp)
+<fig23.png>
+File: fig24.png Graphic file (type bmp)
+<fig24.png>
+File: fig25.png Graphic file (type bmp)
+<fig25.png>
+File: fig26.png Graphic file (type bmp)
+<fig26.png>
+File: fig27.png Graphic file (type bmp)
+<fig27.png>
+ [19]
+File: fig28.png Graphic file (type bmp)
+<fig28.png>
+File: fig29.png Graphic file (type bmp)
+<fig29.png>
+ [20]
+File: fig30.png Graphic file (type bmp)
+<fig30.png>
+) [21
+
+] (./united.aux) ) 
+Here is how much of TeX's memory you used:
+ 1013 strings out of 493281
+ 13559 string characters out of 6145041
+ 77009 words of memory out of 5000000
+ 4860 multiletter control sequences out of 15000+600000
+ 16307 words of font info for 63 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 25i,9n,21p,475b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on united.dvi (22 pages, 53292 bytes).
